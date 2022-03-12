@@ -1,3 +1,3 @@
-Omar M. Youssef AKA. Imperial  
-Advanced Node.Js Programmer and Bot Developer  
-Junior Competative Programmer
+Omar M. Youssef AKA. Imperial
+Node.Js Programmer and Bot Developer
+Junior Competitive Programmer/Problem Solver
